@@ -1,5 +1,1 @@
-rembg
-gradio
-PIL
-zipfile
-os
+rembg==2.0.21
